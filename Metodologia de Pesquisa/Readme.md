@@ -53,10 +53,10 @@ Repositório: <a href="https://github.com/Equipe-Void/drconvert.git">GIT</a>
 #### Contribuições Pessoais
 - No desenvolviemtno do projeto atuei realizando os protótipos e atuando na programação tanto do backend quanto do front 
     #### Protótipos
-        Antes de iniciar o desenvolvimento de uma aplicação web, é crucial planejar tanto o visual quanto a funcionalidade das telas. Foram utilizadas as ferramentras Figma e Canva assim permitindo criar wireframes e protótipos que ajudam a organizar a disposição dos elementos nas páginas (como botões, tabelas, menus e formulários), o fluxo de navegação do usuário e o estilo gráfico (incluindo cores, tipografia e design). Esses protótipos garantem o alinhamento da equipe, minimizam retrabalho e servem como uma referência importante durante o processo de desenvolvimento.
+    Antes de iniciar o desenvolvimento de uma aplicação web, é crucial planejar tanto o visual quanto a funcionalidade das telas. Foram utilizadas as ferramentras Figma e Canva assim permitindo criar wireframes e protótipos que ajudam a organizar a disposição dos elementos nas páginas (como botões, tabelas, menus e formulários), o fluxo de navegação do usuário e o estilo gráfico (incluindo cores, tipografia e design). Esses protótipos garantem o alinhamento da equipe, minimizam retrabalho e servem como uma referência importante durante o processo de desenvolvimento.
     
     #### Desenvolvimento Frontend
-        Com os protótipos criados e aprovados pelo cliente ai se pode partir para a criação do priojeto, agora com um norte seguindo os conceitos solicitados e design pré-aprovados, foi utlizado no projeto so frameworks React.js, Tailwind CSS e Typescript
+    Com os protótipos criados e aprovados pelo cliente ai se pode partir para a criação do priojeto, agora com um norte seguindo os conceitos solicitados e design pré-aprovados, foi utlizado no projeto so frameworks React.js, Tailwind CSS e Typescript
     
     #### TAILWIND CSS:
     O Tailwind CSS é um framework de utilitários que facilita a estilização de páginas web de forma rápida e eficiente. Em vez de escrever CSS personalizado, ele permite aplicar classes diretamente no HTML para controlar a aparência de elementos. Com o Tailwind, é possível personalizar cores, fontes, espaçamentos e responsividade de maneira prática, mantendo o design limpo e flexível para diferentes tamanhos de tela.
